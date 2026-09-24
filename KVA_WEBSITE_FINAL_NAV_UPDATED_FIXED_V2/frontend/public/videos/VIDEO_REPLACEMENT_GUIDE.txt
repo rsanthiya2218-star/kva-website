@@ -1,0 +1,19 @@
+VIDEO REPLACEMENT GUIDE
+
+The Hero keeps its four existing videos:
+hero-slide-1.mp4 -> Hero slide 1
+hero-slide-2.mp4 -> Hero slide 2
+hero-slide-3.mp4 -> Hero slide 3
+hero-slide-4.mp4 -> Hero slide 4
+
+Other existing video-backed sections remain unchanged:
+about-video.mp4 -> About
+why-choose-us-video.mp4 -> Why Choose Us
+services-video.mp4 -> Services
+
+Videos were intentionally removed from:
+Our Approach
+Our Team
+Contact Us
+
+Do not add video elements back to those three sections unless specifically requested.
